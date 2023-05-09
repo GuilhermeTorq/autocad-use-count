@@ -3,7 +3,7 @@ Powershell script that will output how many times a user used AutoCAD each month
 
 This script helps the company to decide how many AutoCAD licenses it needs based on how many times the workers use the software and if it's worth to buy (amount)
 
-> Coding languague: English | EN  
+> Coding language: English | EN  
 > User displayed language: Portuguese | PT
 
 ### To run this script you will need a .log file with the TIMESTAMPs (AutoCAD)
